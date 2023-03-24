@@ -115,4 +115,4 @@ def create_sentence_img(sentence:list):
     return fname
     
 if __name__ == '__main__':
-    create_my_font_img('얼마나 잘 나오는지 확인해보자', 'my2')
+    create_my_font_img('해보자', 'my2')
