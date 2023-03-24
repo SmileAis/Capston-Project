@@ -113,6 +113,3 @@ def create_sentence_img(sentence:list):
     cv2.imwrite('static/images/'+fname, resize_img)
 
     return fname
-    
-if __name__ == '__main__':
-    create_my_font_img('해보자', 'my2')
